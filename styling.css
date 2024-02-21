@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(175, 132, 132);
+}
+
+#responseContainer  {
+    position: absolute;
+    text-align: center;
+    left:35%;
+    top:15%;
+
+}
+
+#invite {
+    position: absolute;
+    align-content: center;
+    left:35%;
+    top: 15%;
+
+}
+
+.giphy-image {
+ max-width: 300px; /* set the image with the maximum width of the image*/
+ height: auto;
+ text-align: center;
+}
+#responseMessage {
+    position: absolute;
+    align-content: center;
+    left: 35%;
+    top:15%;
+
+}
+ button {
+     background-color: limegreen;
+     color: white;
+     border: none;
+     padding: 10px 20px;
+     cursor: pointer;
+     border-radius: 5px;
+ }
+  button:hover {
+    background-color: aliceblue;
+  }
+
+  .imageContainer{
+    text-align: center;
+    margin-top: 100px;
+  }
+
+
+  button {
+    margin: 10px;
+    padding: 10px 20px;
+    font: size 16px;
+    cursor: pointer;
+    text-align: center;
+  }
+
+button {
+    margin-top: 20px; /* adjust as needed */
+}
+
